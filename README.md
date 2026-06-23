@@ -61,8 +61,3 @@ Keep credentials secure; prefer environment variables or a secrets manager.
 - Include tests for new features and ensure the build passes.
 - Keep changes minimal and focused per PR.
 
-## License
-Specify the project's license here (e.g., MIT, Apache-2.0). If none, add one to the repository root.
-
-## Contact
-For questions or issues, open an issue on the repository or contact the maintainer listed in the project metadata.
